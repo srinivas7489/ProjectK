@@ -10,6 +10,10 @@ This is a web based application developed for HAIRSTYLES named BARBER.
 
 **Demo Video** -  
 
+### AZURE Technologies used for this project
+Static Web Apps
+Health Bot
+
 ## Features and Functionalities 
 Mobile-friendly design
 
