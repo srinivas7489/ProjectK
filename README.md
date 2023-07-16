@@ -1,4 +1,4 @@
-###### ✨ BARBER  ✨
+#### ✨ BARBER  ✨
 
 This is a web based application developed for HAIRSTYLES named BARBER.
 
