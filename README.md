@@ -8,7 +8,7 @@ This is a web based application developed for HAIRSTYLES named BARBER.
 **Project Link** -https://blue-smoke-0150d6400.3.azurestaticapps.net/
 
 
-**Demo Video** -  
+**Demo Video** - https://youtu.be/qAerM8IxB2M 
 
 ### AZURE Technologies used for this project
 ## Static Web Apps
