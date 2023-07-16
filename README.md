@@ -15,6 +15,13 @@ This is a web based application developed for HAIRSTYLES named BARBER.
 
 ## Health Bot
 
+### Description-
+
+Barber is an Hair salon that offers professional hair styling services for men .
+ Barber offer hair services including professional hair styling and
+ hair texturing. Many hair salons also offer hair coloring, highlights, 
+head and scalp treatments and formal styling.
+
 ## Features and Functionalities 
 Mobile-friendly design
 
